@@ -6,4 +6,4 @@
 
 - 👯 I’m looking to collaborate on opensource software with strong, healthy communities and maintainers
 
-- 📫 How to reach me: find me on slack of cloudnative
+- 📫 How to reach me: find me on slack of cloudnative, or in twitter.
