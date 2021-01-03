@@ -1,12 +1,13 @@
 ### Hi there 👋
 
-- I love to build things mostly on backend side with golang
-- 🔭 I’m currently working on solving problems for clouds and systems engineering. I have worked with Clusters, Observability, Monitoring, Cloud Native and lot of many others opensource projects
-- 🌱 I’m currently learning **thanos** and other Cloud Native technologies.
+-  `backend` and `#golang` lover.
 
-- 👯 I’m looking to collaborate on opensource software with strong, healthy communities and maintainers
+- 🔭 Working  smart for clouds and systems engineering. 
+     I have worked with *Clusters, Observability, Monitoring, Cloud Native, Linux* and lot of many others opensource projects
 
-- 📫 How to reach me: find me on slack of cloudnative, or in twitter.
+- 👯 I’m always learner, with critical thinking and love for opensource software with strong, healthy communities and maintainers.
+
+- 📫 How to reach me: find me on slack of cloudnative, or twitter.  See my blog for any personal information
 
 ##### Some projects I have worked/contributed ( opensource only :) )
 
