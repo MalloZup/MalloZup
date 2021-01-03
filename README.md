@@ -11,4 +11,5 @@
 ##### Some projects I have worked/contributed ( opensource only :) )
 
 - Creator of  awesome rubygem ruby: https://github.com/openSUSE/gitarro
+- Principal maintainer of https://github.com/ClusterLabs/hawk
 - Maintainer of https://github.com/dmacvicar/terraform-provider-libvirt
