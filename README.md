@@ -10,6 +10,9 @@
 
 ##### Some projects I have worked/contributed ( opensource only :) )
 
-- Creator of  awesome rubygem ruby: https://github.com/openSUSE/gitarro
+- Author and creator of  awesome rubygem ruby: https://github.com/openSUSE/gitarro
+- Authoer and creator of https://github.com/ClusterLabs/ha_cluster_exporter and https://github.com/SUSE/saptune_exporter, and other many exporters
 - Principal maintainer of https://github.com/ClusterLabs/hawk
-- Maintainer of https://github.com/dmacvicar/terraform-provider-libvirt
+- Principal Maintainer of https://github.com/dmacvicar/terraform-provider-libvirt ( second only to the author :) )
+
+- Recently Thanos upstream contributor (https://github.com/thanos-io/thanos), still in process :)
