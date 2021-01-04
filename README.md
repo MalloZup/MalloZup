@@ -9,7 +9,7 @@
 
 - 📫 How to reach me: find me on slack of cloudnative, or twitter.  See my [blog](https://mallozup.github.io/) for any personal information
 
-##### Some few projects I drove:
+##### Some few projects examples, I drove (opensource only here :) :
 
 - Author and creator of  awesome rubygem ruby: https://github.com/openSUSE/gitarro
 - Author and creator of https://github.com/ClusterLabs/ha_cluster_exporter and https://github.com/SUSE/saptune_exporter, and other many exporters
