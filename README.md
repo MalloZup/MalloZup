@@ -1,6 +1,6 @@
 ### Hi there 👋
 
--  `backend` and `#golang` lover.
+-  let's say mostly `backend` or systems programming , I use to code with golang and many other languages
 
 - 🔭 Working  smart for clouds and systems engineering. 
      I have 8+ years experience with *Clusters, Observability, Monitoring, Cloud Native, Linux* and lot of many others opensource projects
